@@ -16,7 +16,7 @@
     <a href="https://www.python.org/">
     	<img src="https://img.shields.io/badge/built%20with-Python-turquoise" />
     </a>
-      <img src='https://img.shields.io/badge/0-Stars-goldenrod'>
+      <img src='https://img.shields.io/badge/1-Stars-goldenrod'>
   <img src='https://img.shields.io/badge/0-Forks-brightgreen'>
   </p>
 <p align='center'><a href='https://github.com/Every-Developer'><img  src='https://img.shields.io/badge/Coded%20By-Mohammadreza.D-plum'></a></p>
