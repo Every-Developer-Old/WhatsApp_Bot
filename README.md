@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/built%20with-Selenium-crimson" />
     </a>
     <a href="https://www.python.org/">
-    	<img src="https://img.shields.io/badge/built%20with-Python-turquoise" />
+    	<img src="https://img.shields.io/badge/Language-Python-turquoise" />
     </a>
       <img src='https://img.shields.io/badge/1-Stars-goldenrod'>
   <img src='https://img.shields.io/badge/0-Forks-brightgreen'>
