@@ -36,7 +36,7 @@ pip install selenium
 ```
 <br>
 
-🌐***All selenium [drivers](https://selenium-python.readthedocs.io/installation.html#drivers) are included in the project***🌐
+🌐***All selenium [drivers](https://selenium-python.readthedocs.io/installation.html#drivers) included in the project***🌐
 
 - [x] Microsoft Edge Driver
 - [x] FireFox driver
