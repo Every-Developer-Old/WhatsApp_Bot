@@ -1,4 +1,4 @@
-# Whatsapp bot! [Sender message]
+# Whatsapp bot! [Message Sender]
 
 # Mohammadreza.D
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - -#
