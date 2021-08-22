@@ -61,8 +61,9 @@ pip install selenium
    ```
    
    or run ***bot.exe*** directory
-   
-*You only have 10 seconds to scan📸 the QR code📅, then enter*
+ <br>
+ 
+👉🏻*You only have 10 seconds to scan📸 the QR code📅, then enter*
 
 # Bug & Troubleshooting 👨‍💻
 
