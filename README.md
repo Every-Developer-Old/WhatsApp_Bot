@@ -48,7 +48,7 @@ pip install selenium
 1. Clone the repository:
 
    ```bash
-   $ git clone https://github.com/Every-Developer/WhatsApp_Bot
+   $ gh repo clone Every-Developer/WhatsApp_Bot
    ```
 
    or download as zip and extract.
