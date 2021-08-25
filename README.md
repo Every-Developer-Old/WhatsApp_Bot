@@ -48,7 +48,7 @@ pip install selenium
 1. Clone the repository:
 
    ```bash
-   $ gh repo clone Every-Developer/WhatsApp_Bot
+   gh repo clone Every-Developer/WhatsApp_Bot
    ```
 
    or download as zip and extract.
@@ -56,8 +56,7 @@ pip install selenium
 1. In the root directory run
 
    ```bash
-   $ pipenv install
-   $ pipenv run python Sender_Message.py
+   pipenv run python Sender_Message.py
    ```
    
    or run ***bot.exe*** directory
