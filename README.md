@@ -24,7 +24,7 @@
 
 # 💡 How to install the project?
 
-- [x] 1. Install [Python](https://www.python.org) 3.9.0 (Reccomended <Python 3.9.6> from >>>
+- [x] 1. Install [Python](https://www.python.org) 3.9.0 (Reccomended <Python 3.9.5> from >>>
 [here](https://www.python.org/downloads/)<br>[***Note that Python 3.9.x cannot be used on Windows 7 or earlier**]
 <br>
 
@@ -56,7 +56,7 @@ pip install selenium
 1. In the root directory run
 
    ```bash
-   pipenv run python Sender_Message.py
+   python Sender_Message.py
    ```
    
    or run ***bot.exe*** directory
