@@ -28,7 +28,7 @@
 [here](https://www.python.org/downloads/)<br>[***Note that Python 3.9.x cannot be used on Windows 7 or earlier**]
 <br>
 
-- [x] 2. Install the latest version of [Selenium](https://selenium-python.readthedocs.io/)(21.2.4) from >>> [here](https://selenium-python.readthedocs.io/installation.html)
+- [x] 2. Install the latest version of [Selenium](https://selenium-python.readthedocs.io/)(4.0.0) from >>> [here](https://selenium-python.readthedocs.io/installation.html)
 
 **Install Selenium:**
 ```bash
